@@ -1,0 +1,6 @@
+C:\Users\patri\source\repos\ConjuntosMENU\ConjuntosMENU\bin\Debug\ConjuntosMENU.exe.config
+C:\Users\patri\source\repos\ConjuntosMENU\ConjuntosMENU\obj\Debug\ConjuntosMENU.csprojResolveAssemblyReference.cache
+C:\Users\patri\source\repos\ConjuntosMENU\ConjuntosMENU\bin\Debug\ConjuntosMENU.exe
+C:\Users\patri\source\repos\ConjuntosMENU\ConjuntosMENU\bin\Debug\ConjuntosMENU.pdb
+C:\Users\patri\source\repos\ConjuntosMENU\ConjuntosMENU\obj\Debug\ConjuntosMENU.exe
+C:\Users\patri\source\repos\ConjuntosMENU\ConjuntosMENU\obj\Debug\ConjuntosMENU.pdb
